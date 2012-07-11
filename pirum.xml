@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>johnpbloch.github.com/pear</name>
+	<summary>John P. Bloch's PEAR channel</summary>
+	<alias>johnpbloch</alias>
+	<url>http://johnpbloch.github.com/pear/</url>
+</server>
