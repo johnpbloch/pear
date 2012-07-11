@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/php_shell">PHP_Shell</p>
+    <c>johnpbloch.github.com/pear</c>
+    <v>1.0.1</v>
+    <a>1.0</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>GPL version 3 or later</l>
+    <m>John P. Bloch</m>
+    <s>A PHP wrapper for executing shell commands in an authentic shell environment</s>
+    <d>
+    See the README.md file for more information.
+  </d>
+    <da>2012-07-11 16:38:22</da>
+    <n>
+    No notes.
+  </n>
+    <f>3862</f>
+    <g>http://johnpbloch.github.com/pear/get/PHP_Shell-1.0.1</g>
+    <x xlink:href="package.1.0.1.xml"/>
+</r>

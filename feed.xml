@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://johnpbloch.github.com/pear</id>
-    <updated>2012-07-11T16:17:13-04:00</updated>
+    <updated>2012-07-11T16:38:22-04:00</updated>
     <title>John P. Bloch's PEAR channel Latest Releases</title>
     <link href="http://johnpbloch.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>PHP_Shell 1.0.1 (stable)</title>
+        <link href="http://johnpbloch.github.com/pear/get/PHP_Shell-1.0.1.tgz" />
+        <id>http://johnpbloch.github.com/pear/get/PHP_Shell-1.0.1.tgz</id>
+        <author>
+            <name>John P. Bloch</name>
+        </author>
+        <updated>2012-07-11T16:38:22-04:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>PHP_Shell 1.0.0 (stable)</title>
         <link href="http://johnpbloch.github.com/pear/get/PHP_Shell-1.0.0.tgz" />
         <id>http://johnpbloch.github.com/pear/get/PHP_Shell-1.0.0.tgz</id>
