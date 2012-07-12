@@ -3,6 +3,10 @@
     <p>PHP_Shell</p>
     <c>johnpbloch.github.com/pear</c>
     <r>
+        <v>1.0.2</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>1.0.1</v>
         <s>stable</s>
     </r>
