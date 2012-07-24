@@ -2,6 +2,32 @@
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
     <pi>
         <p>
+            <n>PHP_Git</n>
+            <c>johnpbloch.github.com/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>All rights reserved.</l>
+            <s>Summary goes here</s>
+            <d>
+    Description goes here
+  </d>
+            <r xlink:href="/rest/r/php_git" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.2.2</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.2.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>PHP_Shell</n>
             <c>johnpbloch.github.com/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>

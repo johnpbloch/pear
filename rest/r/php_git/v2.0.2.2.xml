@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/php_git">PHP_Git</p>
+    <c>johnpbloch.github.com/pear</c>
+    <v>0.2.2</v>
+    <a>0.2</a>
+    <mp>5.3.0</mp>
+    <st>stable</st>
+    <l>All rights reserved.</l>
+    <m>Anything goes here</m>
+    <s>Summary goes here</s>
+    <d>
+    Description goes here
+  </d>
+    <da>2012-07-24 18:02:12</da>
+    <n>
+    No notes.
+  </n>
+    <f>23531</f>
+    <g>http://johnpbloch.github.com/pear/get/PHP_Git-0.2.2</g>
+    <x xlink:href="package.0.2.2.xml"/>
+</r>
